@@ -1,4 +1,4 @@
-# Cursor Pro Keep Alive
+# 海豚Cursor Pro Keep Alive
 
 一个帮助你使用 Cursor Pro 的工具。支持 Windows、macOS (Intel/ARM) 和 Linux 平台。
 
