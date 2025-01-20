@@ -12,7 +12,7 @@
 
 ## 📥 下载
 
-访问 [Releases](../../releases) 页面下载最新版本：
+本页面下载最新版本：
 
 - Windows: `CursorPro-Windows.zip`
 - macOS (M芯片): `CursorPro-MacOS-ARM64.zip`
