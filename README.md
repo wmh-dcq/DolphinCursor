@@ -4,7 +4,8 @@
 
 ## 🌟 特性
 
-- 🔄 自动激活 Cursor Pro
+- 🔄 瞬间激活，比市面上所有的软件都快。无需翻墙，无需操作cursor官网账号。
+- 🌟 告别“Too many free trial accounts used on this machine”问题
 - 💻 跨平台支持 (Windows/macOS/Linux)
 - 🔒 安全可靠
 - 🚀 一键激活
