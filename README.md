@@ -17,9 +17,9 @@
 
 ### 方式一：官方仓库下载（推荐）
 访问 [DolphinCursor](https://github.com/wmh-dcq/DolphinCursor) 仓库直接下载：
-- [Windows 版本](https://github.com/wmh-dcq/DolphinCursor/blob/main/CursorPro-Windows.zip)
-- [macOS ARM64 版本](https://github.com/wmh-dcq/DolphinCursor/blob/main/CursorPro-MacOS-ARM64.zip)
-- [macOS Intel 版本](https://github.com/wmh-dcq/DolphinCursor/blob/main/CursorPro-MacOS-Intel.zip)
+- [Windows 版本](https://github.com/wmh-dcq/DolphinCursor/blob/main/DolphinCursorClient_Windows_V1.1.zip)
+- [macOS ARM64 版本](https://github.com/wmh-dcq/DolphinCursor/blob/main/DolphinCursorClient-MacOS-ARM64.zip)
+- [macOS Intel 版本](https://github.com/wmh-dcq/DolphinCursor/blob/main/DolphinCursorClient-MacOS-Intel.zip)
 
 ## 📞 联系购买方式（加微信送日卡一张）
 
