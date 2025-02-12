@@ -21,7 +21,7 @@
 - [macOS ARM64 版本](https://github.com/wmh-dcq/DolphinCursor/blob/main/DolphinCursorClient-MacOS-ARM64.zip)
 - [macOS Intel 版本](https://github.com/wmh-dcq/DolphinCursor/blob/main/DolphinCursorClient-MacOS-Intel.zip)
 
-## 📞 联系购买方式（加微信送日卡一张）
+## 📞 联系购买方式
 
 如有问题或建议，或需要购买请通过以下方式联系：
 
